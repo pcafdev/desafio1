@@ -13,4 +13,3 @@ INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Carlos'
 INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Silvia', '12345678912', 6000.00,  TIMESTAMP WITH TIME ZONE '1963-05-12T10:00:00Z', 5);
 INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Isabel', '12345678913', 8000.00,  TIMESTAMP WITH TIME ZONE '1964-02-19T10:00:00Z', 5);
 INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Rebeca', '12345678914', 7000.00,  TIMESTAMP WITH TIME ZONE '1965-08-20T10:00:00Z', 5);
-
